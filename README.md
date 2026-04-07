@@ -12,11 +12,7 @@ I'm Yosep Lee
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yosep485&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosep485&layout=compact&theme=dracula" alt="Top Langs" />
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yosep485&show_icons=true&theme=radical)
 
 ---
 
