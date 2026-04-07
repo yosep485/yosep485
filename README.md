@@ -1,5 +1,8 @@
 ### Hi there 👋
-I'm Yosep Lee. I'm interested in Backend Development and Game Development 
+I'm Yosep Lee.
+<br>
+I'm interested in Backend Development and Game Development 
+<br>
 I’m currently learning C++ and Python
 
 ---
