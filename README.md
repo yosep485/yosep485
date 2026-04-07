@@ -13,9 +13,9 @@ I'm Yosep Lee
 
 ### 📊 GitHub Stats
 <p align="center">
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yosep485)>
+  <img src="https://github-readme-stats.vercel.app/api?username=yosep485&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
   <br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yosep485&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosep485&layout=compact&theme=dracula" alt="Top Langs" />
 </p>
 
 ---
