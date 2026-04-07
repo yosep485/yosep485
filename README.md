@@ -1,5 +1,7 @@
-## Hi there 👋
+### Hi there 👋
 I'm Yosep Lee
+
+---
 
 ### 🛠 Tech Stack
 <p>
@@ -24,5 +26,5 @@ I'm Yosep Lee
 ---
 
 <p align="center">
-  <i>Keep Coding & Stay Awesome! 🚀</i>
+  <i>Keep Coding </i>
 </p>
